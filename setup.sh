@@ -1,6 +1,6 @@
 #!/bin/bash
 # Laravel Accounts Backend - Development Environment Setup Script
-# Author: Development Team
+# Author: Gigi
 # Description: Automated setup script for WSL Ubuntu environment
 
 set -e  # Exit on any error
